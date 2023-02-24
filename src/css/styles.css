@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    position: relative;
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.git_bg {
+    min-height: 800px;
+    padding: 39px 0 62px 0;
+    background: url(../img/git.jpg) center center/cover no-repeat;
+}
+
+
+.text {
+    color: #ffffff;
+    font-size: 50px;
+    line-height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.descr {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 30px;
+    color:greenyellow;
+
+}
+
+
+
+
